@@ -1,8 +1,12 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
     <style name="Base.Theme.Monify" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+            <item name="colorPrimary">#6E2E3A</item>       <!-- Color Principal -->
+            <item name="colorPrimaryDark">#0D1524</item>   <!-- Color Principal Negro -->
+            <item name="colorAccent">#4A6151</item>        <!-- Color Neutro -->
+            <item name="android:textColor">#FFFFFF</item>  <!-- Color del texto -->
+            <item name="android:background">#322d29</item>  <!-- Color de fondo -->
+
     </style>
 
     <style name="Theme.Monify" parent="Base.Theme.Monify" />
