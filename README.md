@@ -1,7 +1,7 @@
 # Monify
 
 **Descripción:**
-es una solución digital diseñada para ayudarte a gestionar tus finanzas de manera sencilla y eficaz. Con MonedApp, podrás llevar un control detallado de tus ingresos y gastos, asegurándote de tener siempre una visión clara de tu estado financiero. La aplicación te permite crear categorías personalizadas, registrar movimientos diarios y visualizar gráficos intuitivos para comprender mejor tus hábitos de consumo.
+💸es una solución digital diseñada para ayudarte a gestionar tus finanzas de manera sencilla y eficaz. Con MonedApp, podrás llevar un control detallado de tus ingresos y gastos, asegurándote de tener siempre una visión clara de tu estado financiero. La aplicación te permite crear categorías personalizadas, registrar movimientos diarios y visualizar gráficos intuitivos para comprender mejor tus hábitos de consumo.
 
 ## Características
 
